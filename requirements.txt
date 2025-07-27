@@ -125,7 +125,7 @@ platformdirs==4.2.0
 pluggy @ file:///tmp/build/80754af9/pluggy_1648024709248/work
 prometheus_client==0.20.0
 prompt-toolkit @ file:///croot/prompt-toolkit_1672387306916/work
-protobuf==4.25.3
+protobuf==4.25.8
 psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
